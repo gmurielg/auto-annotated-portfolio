@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Cocorote: Ires y Venires (2023)
+title: Cocorote Ires y Venires (2023)
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
