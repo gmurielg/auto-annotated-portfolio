@@ -14,11 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Soy realizador audiovisual, fotográfo y gestor cultural actualmente estudiando en la Universidad Nacional de Colombia.
+      Realización Audiovisual, Fotografía y Gestión cultural buscando lo íntimo en lo cotidiano.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Soy Gabriel Angel Muriel Gaitan, realizador audiovisual
+     y estudiante de Cine y Televisión de la Universidad Nacional de Colombia,
+     muy interesado en poder colaborar y hacer florecer
+     proyectos de todo tipo.
     styles:
       self:
         height: auto
@@ -63,7 +64,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Proyectos
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -94,7 +95,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "¿Te interesa colaborar?\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
