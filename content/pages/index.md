@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bgciudadvacia.jpg
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: left bottom
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
