@@ -16,10 +16,10 @@ sections:
     title: >-
       Realización Audiovisual, Fotografía y Gestión cultural buscando lo íntimo en lo cotidiano.
     subtitle: >-
-    Soy Gabriel Angel Muriel Gaitan, realizador audiovisual
-    y estudiante de Cine y Televisión de la Universidad Nacional de Colombia,
-    muy interesado en poder colaborar y hacer florecer
-     proyectos de todo tipo.
+      Soy Gabriel Angel Muriel Gaitan, realizador audiovisual
+      y estudiante de Cine y Televisión de la Universidad Nacional de Colombia,
+      muy interesado en poder colaborar y hacer florecer
+      proyectos de todo tipo.
     styles:
       self:
         height: auto
