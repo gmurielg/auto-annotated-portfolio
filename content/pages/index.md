@@ -65,33 +65,6 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Proyectos
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -101,14 +74,14 @@ sections:
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Nombre
           hideLabel: true
           placeholder: First Name
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: Last Name
+          label: Apellido
           hideLabel: true
           placeholder: Last Name
           isRequired: false
@@ -128,11 +101,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
