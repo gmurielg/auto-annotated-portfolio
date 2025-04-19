@@ -3,12 +3,12 @@ type: ProjectLayout
 title: Cocorote Ires y Venires (2023)
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Documental
 description: >-
  Una serie de talleres pedágogicos en torno al audiovisual, y un documental que refleja un poco del proceso son las dos cosas que conforman "Cocorote Ires y Venires", un proyecto que tuvo lugar en Cocorote, corregimiento de Sincé, Sucre.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Cocorote Ires y Venires(2023).jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
