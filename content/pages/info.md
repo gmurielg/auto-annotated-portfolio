@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Soy realizador audiovisual, fotográfo y gestor cultural. Resido en Bogotá,
-    y estoy interesado en colaborar en proyectos audiovisuales como director de fotografía o montajista.
-    Me encanta la pedagogía e impartir talleres en espacios culturales que posibiliten generar comunidad
-    a través del arte.
+    # Soy realizador audiovisual, fotográfo y gestor cultural. Resido en Bogotá,
+    # y estoy interesado en colaborar en proyectos audiovisuales como director de fotografía o montajista.
+    # Me encanta la pedagogía e impartir talleres en espacios culturales que posibiliten generar comunidad
+    # a través del arte.
 
     media:
       type: ImageBlock
