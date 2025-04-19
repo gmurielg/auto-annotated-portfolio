@@ -8,7 +8,7 @@ description: >-
  Una serie de talleres pedágogicos en torno al audiovisual, y un documental que refleja un poco del proceso son las dos cosas que conforman "Cocorote Ires y Venires", un proyecto que tuvo lugar en Cocorote, corregimiento de Sincé, Sucre.
 featuredImage:
   type: ImageBlock
-  url: /images/Cocorote Ires y Venires(2023).jpg
+  url: /images/Cocorote Ires y Venires (2023).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
